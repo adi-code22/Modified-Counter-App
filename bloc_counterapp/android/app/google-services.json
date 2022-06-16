@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867457612682",
+    "project_id": "firestore-cubit",
+    "storage_bucket": "firestore-cubit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867457612682:android:0ef32096afdf2923a62673",
+        "android_client_info": {
+          "package_name": "com.example.bloc_counterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867457612682-ddv3c3b8dpr3qkcelom34ctei961o53e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_UjshIVFWZ9Xc57w_5UC-Co2G1LQpl_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867457612682-ddv3c3b8dpr3qkcelom34ctei961o53e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
