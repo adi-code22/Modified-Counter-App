@@ -3,6 +3,8 @@ BLoC Architecture is the most efficient and widely accepted state management sol
 
 ## Modified the default Counter Application on Flutter, using BLoC Architecture
 
+<img align="left" alt="GIF" src="https://github.com/adi-code22/Modified-Counter-App/blob/main/counter.gif?raw=true"/>
+
 ### Built With
 
 * [![Flutter][Flutter]][Flutter-url]
